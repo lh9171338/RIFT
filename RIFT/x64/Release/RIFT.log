@@ -1,0 +1,9 @@
+﻿  main.cpp
+  phasecongruency.cpp
+  rift.cpp
+E:\opencv\RIFT\RIFT\rift.cpp(67,33): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 737 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  RIFT.vcxproj -> E:\opencv\RIFT\x64\Release\RIFT.exe
