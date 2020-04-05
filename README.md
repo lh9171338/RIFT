@@ -6,8 +6,8 @@
 
 # 2. Results
 ![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/day-night/result.jpg)  
-![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/RIFT/depth-optical/result.jpg)  
-![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/RIFT/infrared-optical/result.jpg)  
-![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/RIFT/map-optical/result.jpg)  
-![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/RIFT/optical-optical/result.jpg)  
-![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/RIFT/sar-optical/result.jpg)
+![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/depth-optical/result.jpg)  
+![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/infrared-optical/result.jpg)  
+![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/map-optical/result.jpg)  
+![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/optical-optical/result.jpg)  
+![image](https://github.com/lh9171338/RIFT/tree/Opencv/RIFT/sar-optical/result.jpg)
