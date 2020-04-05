@@ -1,3 +1,6 @@
+[<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) RIFT
+===
+
 # 1. Introduction
 >>RIFT algorithm implemented by Opencv.
 
@@ -8,6 +11,3 @@
 ![image](https://github.com/lh9171338/Opencv/blob/RIFT/RIFT/map-optical/result.jpg)  
 ![image](https://github.com/lh9171338/Opencv/blob/RIFT/RIFT/optical-optical/result.jpg)  
 ![image](https://github.com/lh9171338/Opencv/blob/RIFT/RIFT/sar-optical/result.jpg)
-
-# 3. More Resources
-- [Github Link](https://github.com/lh9171338/Outline)
